@@ -4,7 +4,8 @@
   "description": "This is demo of expressjs application",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node server"
   },
   "author": "Satheesh Kyahtam",
   "license": "ISC",
